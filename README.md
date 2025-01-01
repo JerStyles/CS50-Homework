@@ -1,7 +1,7 @@
-# CS50 Homework Backup (2024)
+# CS50 Problem Set Answer Backup (2024)
 
 ## About  
-This repository contains my homework backup for the 2024 version of CS50. I am currently halfway through the course and will upload the complete collection once I finish it.  
+This repository contains my backup of answers for the 2024 version of CS50's problem sets. I am currently halfway through the course and will upload the complete collection once I finish it.  
 
 ---
 
